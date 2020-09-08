@@ -65,22 +65,4 @@ print you guessed correct
 print how many guesses it took
 print your guess log:
 print list entry
-"""
-
-
-    
-
-
-
-
-
-
-
-
-
-
-  
-
-      
-
-        
+"""   
